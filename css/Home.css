@@ -232,14 +232,14 @@ p {
     background-image: url('/img/satisfied customers/11.jpg');
 }
 
-@Keyframes scroll{
+@keyframes scroll {
 
-0{ 
-  Transform:TranslateX(0);
+0% { 
+  transform: translateX(0);
 }
 
-100%{
-  Transform:TranslateX(-220%);
+100% {
+  transform: translateX(-220%);
 }
 
 
