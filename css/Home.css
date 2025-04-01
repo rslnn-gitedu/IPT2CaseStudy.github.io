@@ -232,6 +232,7 @@ p {
     background-image: url('/img/satisfied customers/11.jpg');
 }
 
+/*this section is not working*/
 @keyframes scroll {
 
 0% { 
