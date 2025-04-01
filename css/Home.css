@@ -232,9 +232,19 @@ p {
     background-image: url('/img/satisfied customers/11.jpg');
 }
 
+@Keyframes scroll{
+
+0{ 
+  Transform:TranslateX(0);
+}
+
+100%{
+  Transform:TranslateX(-220%);
+}
+
 
 .mapswrapper {
-    width: 500px;
+    width: 1000px;
 }
 
 .mapswrapper iframe {
