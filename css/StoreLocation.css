@@ -20,7 +20,7 @@ main{
     flex-direction: column;
     height: auto;
     width: auto;
-    align-items: end;
+    align-items: center;
 }
 .streetView img{
     width: 800px;
