@@ -49,7 +49,7 @@ i {
 
 .NavigationBar {
     width: 100%;
-    background-color: #361500;
+    background-color: #361500; /* Change this color using this code #703917*/
     margin: 0;
     padding: 10px;
     position: fixed;
